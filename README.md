@@ -40,6 +40,6 @@ Search engines project part 2
 ---
 ---
 
-### __The general section uses all the web for its search:__
+### __The general section uses all the web for its search__
 
 ---
