@@ -1,6 +1,9 @@
 # Search_Engines_part_2
 Search engines project part 2
 
+Δημήτρης Παπαθανασίου Μ012022027
+Κυλάφας Χρήστος Μ012021097
+
 ---
 
 ### __The sports section uses the following links for the search engine:__
